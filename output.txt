@@ -1,0 +1,3 @@
+Access granted. Press Return to begin session. 
+server-gitlab
+===================
